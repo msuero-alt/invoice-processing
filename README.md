@@ -1,4 +1,4 @@
-# invoice-Processing
+# invoice-processing
 
 This workbook demonstrates a typical Accounts Receivable workflow, including:
 
